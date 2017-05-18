@@ -6,9 +6,9 @@ Based on the data found in the Household Power Consumption data which is downloa
 The codebook can be found here: 
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
-## Assignment Criteria
 
-Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
+
+The overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
 
